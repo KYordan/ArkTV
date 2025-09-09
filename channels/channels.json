@@ -90,9 +90,5 @@
     {"name": "Plex (US)", "url": "https://i.mjh.nz/Plex/us.m3u8"},
     {"name": "Pluto TV Documentaries", "url": "https://i.mjh.nz/PlutoTV/us.m3u8"},
     {"name": "Pluto TV Kids", "url": "https://i.mjh.nz/PlutoTV/us.m3u8"},
-    {"name": "IPTV-Org (all channels)", "url": "https://iptv-org.github.io/iptv/index.m3u"},
-
-]
-
-    
+    {"name": "IPTV-Org (all channels)", "url": "https://iptv-org.github.io/iptv/index.m3u"}
 ]
