@@ -80,5 +80,19 @@
     {"name": "Animexdive", "url": "https://ott.m3u8.nathcreqtives.com/animexdive/stream/manifest.m3u8"},
     {"name": "MYX Global", "url": "https://ott.m3u8.nathcreqtives.com/myxglobal/manifest.m3u8"},
     {"name": "MTV 90s", "url": "https://ott.m3u8.nathcreqtives.com/mtv90s/stream/manifest.m3u8"},
-    {"name": "Mindanow Network", "url": "https://streams1.comclark.com/overlay/mindanow/chunks.m3u8"}
+    {"name": "Mindanow Network", "url": "https://streams1.comclark.com/overlay/mindanow/chunks.m3u8"},
+    {"name": "IPTV-Org (all channels)", "url": "https://iptv-org.github.io/iptv/index.m3u"},
+    {"name": "Free-TV Selected Channels", "url": "https://raw.githubusercontent.com/Free-TV/IPTV/master/playlist.m3u8"},
+    {"name": "Apple fMP4 Example", "url": "https://devstreaming-cdn.apple.com/videos/streaming/examples/img_bipbop_adv_example_fmp4/master.m3u8"},
+    {"name": "Akamai Live Test (1)", "url": "https://cph-p2p-msl.akamaized.net/hls/live/2000341/test/master.m3u8"},
+    {"name": "Akamai Live Test (2)", "url": "https://moctobpltc-i.akamaihd.net/hls/live/571329/eight/playlist.m3u8"},
+    {"name": "PBS (all)", "url": "https://i.mjh.nz/PBS/all.m3u8"},
+    {"name": "Plex (US)", "url": "https://i.mjh.nz/Plex/us.m3u8"},
+    {"name": "Pluto TV Documentaries", "url": "https://i.mjh.nz/PlutoTV/us.m3u8"},
+    {"name": "Pluto TV Kids", "url": "https://i.mjh.nz/PlutoTV/us.m3u8"},
+    {"name": "IPTV-Org (all channels)", "url": "https://iptv-org.github.io/iptv/index.m3u"},
+
+]
+
+    
 ]
